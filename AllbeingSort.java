@@ -50,6 +50,7 @@ public class AllbeingSort {
     }
 
     public static void main(String[] args) {
+        // 示例用法
         int[] array = {3, 2, 1};
 
         System.out.print("Original array: ");
