@@ -1,4 +1,4 @@
-﻿#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -58,6 +58,9 @@ int main() {
     std::cout << std::endl  << "Please wait (being processed)" << std::endl;
 
     allbeingSort(array);
+
+    std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+    std::cin.get();
 
     return 0;
 }
