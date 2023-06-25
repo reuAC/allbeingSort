@@ -47,6 +47,7 @@ func allbeingSort(array []int) {
 }
 
 func main() {
+	// 示例用法
 	array := []int{3, 2, 1}
 
 	fmt.Print("Original array: ")
