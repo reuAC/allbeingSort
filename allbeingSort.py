@@ -25,6 +25,7 @@ def allbeing_sort(array):
 
     print("Array is not sortable.")
 
+# 示例用法
 array = [3, 2, 1]
 
 print("Original array:", array)
