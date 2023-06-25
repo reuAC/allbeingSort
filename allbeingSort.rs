@@ -35,6 +35,7 @@ fn allbeing_sort(array: &mut [i32]) {
 }
 
 fn main() {
+    // 示例用法
     let mut array = vec![3, 2, 1];
 
     println!("Original array: {:?}", array);
