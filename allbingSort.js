@@ -41,3 +41,8 @@ function allbeingPermutation(array) {
   generatePermutations([], array, 0);
   return results;
 }
+
+// 示例用法
+var array = [3, 2, 1];
+var sortedArray = allbeingSort(array, array.length);
+console.log(sortedArray);
