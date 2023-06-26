@@ -1,6 +1,6 @@
 # allbeingSort 众生排序算法
 
-一种简单的排序算法。时间复杂度约为O(n * n!)。
+一种简单的排序算法。时间复杂度约为O(n * n!)。  
 一種簡單的排序演算法。時間複雜度約為O(n * n!)。
 A simple sorting algorithm. The time complexity is approximately O(n * n!).
 Простой алгоритм сортировки. Временная сложность составляет примерно O(n * n!).
